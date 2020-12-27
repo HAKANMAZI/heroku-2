@@ -1,4 +1,4 @@
-from app.speechtotext import app
+from app.camera import app
 
 if __name__ == "__main__":
   app.run()
